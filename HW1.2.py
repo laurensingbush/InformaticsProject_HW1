@@ -30,4 +30,4 @@ def cleanData(file):
 
 
 # Call the function with uncleaned file
-cleanData('state-divorce-rates.xlsx')
+#cleanData('state-divorce-rates.xlsx')
